@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="starwars" size="0.065000 0.088534" />
+    <ImageTarget name="spaceship" size="0.065000 0.115000" />
+    <ImageTarget name="finger_drawing_template" size="0.175000 0.123768" />
+    <ImageTarget name="terrain_base" size="0.099000 0.098610" />
+    <ImageTarget name="beer" size="0.065000 0.082032" />
+    <ImageTarget name="terrain" size="0.088000 0.088000" />
+    <ImageTarget name="meteor" size="0.065000 0.065743" />
+    <ImageTarget name="dog1" size="0.165000 0.165000" />
+    <ImageTarget name="fish" size="0.085000 0.159195" />
+  </Tracking>
+</QCARConfig>
